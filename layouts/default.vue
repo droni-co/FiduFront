@@ -1,7 +1,7 @@
 <template>
   <div>
-    <header>Fiduciaria</header>
+    <MainHeader />
     <NuxtPage />
-    <footer>© 2021 Fiduciaria</footer>
+    <MainFooter />
   </div>
 </template>
